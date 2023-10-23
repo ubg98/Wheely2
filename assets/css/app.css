@@ -17,8 +17,8 @@ body {
     color: #ccc;
     background-color: #000000;
     position: relative;
-    background-image: url(../images/stageBackground.png);
     overflow: hidden;
+    background-image: url(../images/stageBackground.png);
 }
 
 #orientation {
