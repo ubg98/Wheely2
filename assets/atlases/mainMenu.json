@@ -1,16 +1,32 @@
 ﻿{"frames": [
 
 {
-	"filename": "logo instance 10000",
-	"frame": {"x":1,"y":1,"w":368,"h":188},
+	"filename": "boosWheel instance 10000",
+	"frame": {"x":296,"y":224,"w":30,"h":30},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":368,"h":188},
-	"sourceSize": {"w":368,"h":188}
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":30},
+	"sourceSize": {"w":30,"h":30}
+}
+,{
+	"filename": "boss instance 10000",
+	"frame": {"x":2,"y":191,"w":163,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":163,"h":96},
+	"sourceSize": {"w":163,"h":96}
+}
+,{
+	"filename": "logo instance 10000",
+	"frame": {"x":2,"y":2,"w":413,"h":187},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":413,"h":187},
+	"sourceSize": {"w":413,"h":187}
 }
 ,{
 	"filename": "wheel instance 10000",
-	"frame": {"x":371,"y":70,"w":31,"h":31},
+	"frame": {"x":296,"y":191,"w":31,"h":31},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":31},
@@ -18,15 +34,15 @@
 }
 ,{
 	"filename": "wheely instance 10000",
-	"frame": {"x":371,"y":1,"w":131,"h":67},
+	"frame": {"x":167,"y":191,"w":127,"h":88},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":67},
-	"sourceSize": {"w":131,"h":67}
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":88},
+	"sourceSize": {"w":127,"h":88}
 }],
 "meta": {
-	"app": "Adobe Flash Professional",
-	"version": "15.0.0.173",
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
 	"image": "mainMenu.png",
 	"format": "RGBA8888",
 	"size": {"w":512,"h":512},
